@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Vezbanje_Za_Okt2\Vezbanje_Za_Okt2\bin\Debug\Vezbanje_Za_Okt2.exe.config
+C:\Users\user\source\repos\Vezbanje_Za_Okt2\Vezbanje_Za_Okt2\bin\Debug\Vezbanje_Za_Okt2.exe
+C:\Users\user\source\repos\Vezbanje_Za_Okt2\Vezbanje_Za_Okt2\bin\Debug\Vezbanje_Za_Okt2.pdb
+C:\Users\user\source\repos\Vezbanje_Za_Okt2\Vezbanje_Za_Okt2\obj\Debug\Vezbanje_Za_Okt2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Vezbanje_Za_Okt2\Vezbanje_Za_Okt2\obj\Debug\Vezbanje_Za_Okt2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Vezbanje_Za_Okt2\Vezbanje_Za_Okt2\obj\Debug\Vezbanje_Za_Okt2.Form1.resources
+C:\Users\user\source\repos\Vezbanje_Za_Okt2\Vezbanje_Za_Okt2\obj\Debug\Vezbanje_Za_Okt2.Properties.Resources.resources
+C:\Users\user\source\repos\Vezbanje_Za_Okt2\Vezbanje_Za_Okt2\obj\Debug\Vezbanje_Za_Okt2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Vezbanje_Za_Okt2\Vezbanje_Za_Okt2\obj\Debug\Vezbanje_Za_Okt2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Vezbanje_Za_Okt2\Vezbanje_Za_Okt2\obj\Debug\Vezbanje_Za_Okt2.exe
+C:\Users\user\source\repos\Vezbanje_Za_Okt2\Vezbanje_Za_Okt2\obj\Debug\Vezbanje_Za_Okt2.pdb
